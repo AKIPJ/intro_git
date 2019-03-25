@@ -4,3 +4,4 @@ git add
 git commit
 複数ファイルテスト
 git status
+git diff
