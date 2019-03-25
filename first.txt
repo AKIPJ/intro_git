@@ -3,3 +3,4 @@ gitの練習をはじめます
 git add
 git commit
 複数ファイルテスト
+git status
